@@ -1,0 +1,3 @@
+hadoop\covid_statistics\MongoCovidStatisticsReduce.class
+hadoop\covid_statistics\MongoCovidStatisticsMap.class
+hadoop\covid_statistics\MongoCovidStatistics.class
